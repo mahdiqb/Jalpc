@@ -1,22 +1,25 @@
 # projects section data
-# If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Setting Up a Big Data Pipeline
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: mahdiqb
+  img: /static/assets/img/landing/1000mercis.png
+  desc: Revamped the data architecture of the product EmailAttitude through the implementation of a Big Data pipeline using Apache Spark, Apache Airflow, and Apache Zeppelin.
 
-- name: Python
+- name: Celer: traffic and navigation app
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: mahdiqb
+  img: /static/assets/img/landing/insat.png
+  desc: Conceived and implemented an data architecture based on three layers (Lambda Architecture) for a traffic and navigation Android app.
 
-- name: Google
+- name: Visualizing Elections Data
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  repo: di_dataviz
+  img: /static/assets/img/landing/di.png
+  desc: Created a set of data visualizations for the 2018 tunisian municipal elections.
+  
+- name: Monumental 3D Projection Mapping
+  i18n: google
+  url: https://www.youtube.com/watch?v=cn4LmI7fdds
+  img: /static/assets/img/landing/cine.png
+  desc: Participated in the different phases of conceiving and creating a monumental 3D projection mapping during the 10th edition of the JAM SESSION, an event organized at INSAT by Ciné-Radio INSAT. Tools used: Blender, Resolume Arena 5, and Adobe After Effects.
