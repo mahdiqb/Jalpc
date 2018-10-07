@@ -19,12 +19,12 @@ author:
   email: mahdikarabibene@yahoo.com 
   cv: https://mahdiqb.github.io/cv.pdf  
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  # skill_icon1:
-  #  - name: icon-apache
-  #  - name: fa-linux
-  # skill_icon2:
-  #  - name: fa-linux
-  #  - name: icon-apache
+  skill_icon1:
+   - name: icon-database
+   - name: icon-d3
+  skill_icon2:
+   - name: icon-python
+   - name: icon-database
   desc: A driven data engineer who's also passionate about data visualization.
 
 # comment
