@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Hadoop Ecosystem, SQL, Apache Spark, Python/PySpark, Big Data Architectures, Data Visualization (D3.js/Tableau/Zeppelin), Apache Airflow
+aspects: Hadoop Ecosystem, SQL, Apache Spark, Python/PySpark, Big Data Architectures, Data Visualization (D3.js/Tableau), Apache Airflow
 percentage: 80, 90, 75, 60, 78, 75, 85
