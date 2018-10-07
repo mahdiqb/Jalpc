@@ -6,7 +6,7 @@
   img: /static/assets/img/landing/1000mercis.png
   desc: Revamped the data architecture of the product EmailAttitude through the implementation of a Big Data pipeline using Apache Spark, Apache Airflow, and Apache Zeppelin.
 
-- name: Celer: traffic and navigation app
+- name: Celer, a traffic and navigation app
   i18n: cpython
   gh_user: mahdiqb
   img: /static/assets/img/landing/insat.png
