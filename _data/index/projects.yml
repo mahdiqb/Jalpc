@@ -10,7 +10,7 @@
   i18n: cpython
   gh_user: mahdiqb
   img: /static/assets/img/landing/insat.png
-  desc: Conceived and implemented an data architecture based on three layers (Lambda Architecture) for a traffic and navigation Android app.
+  desc: Conceived and implemented a data architecture based on three layers (Lambda Architecture) for a traffic and navigation Android app.
 
 - name: Visualizing Elections Data
   i18n: google
