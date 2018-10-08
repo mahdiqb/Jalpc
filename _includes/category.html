@@ -16,7 +16,8 @@ $(function(){
 <div class="row">
     <div class="col-lg-12 text-center">
         <div class="navy-line"></div>
-        {% assign category = page.url | remove:'/' | capitalize | replace('-', ' ') %}
+        {% assign category = page.url | remove:'/' | capitalize %}
+        {% category = category.replace('-', ' ') %}
         <h1>{{ category }}</h1>
     </div>
 </div>
