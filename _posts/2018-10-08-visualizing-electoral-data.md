@@ -14,7 +14,7 @@ Numbers and percentages aren't fun to look at, especially when it comes to elect
 The campaign used Artificial reality, virtual reality, [3D projection mappings](https://www.youtube.com/watch?v=yaHDbPP5VJM&t=86s), and interactive data visualizations. Below are four of the visualizations I created within the campaign:
 
 
-1. [Key statistics about youth's importance to the elections, presented through a scrolling-animation]()
+1. [Key statistics about youth's importance to the elections, presented through a scrolling-animation](https://mahdiqb.github.io/viz/registeredvoters/)
 
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<!-- <img src="{{ site.img_path }}/3steps/edit.gif" width="75%"> -->
