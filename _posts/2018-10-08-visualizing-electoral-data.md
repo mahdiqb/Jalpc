@@ -14,9 +14,11 @@ Numbers and percentages aren't fun to look at, especially when it comes to elect
 The campaign used Artificial reality, virtual reality, [3D projection mappings](https://www.youtube.com/watch?v=yaHDbPP5VJM&t=86s), and interactive data visualizations. Below are four of the visualizations I created within the campaign:
 
 
-1. [Key statistics about youth's importance to the elections, presented through a scrolling-animation](https://mahdiqb.github.io/viz/registeredvoters/)
+1. <a href="https://mahdiqb.github.io/viz/registeredvoters/" target="_blank">Key statistics about youth's importance to the elections, presented through a scrolling animation</a>
 
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<!-- <img src="{{ site.img_path }}/3steps/edit.gif" width="75%"> -->
 
-2. 
+2. <a href="https://mahdiqb.github.io/viz/nidaa/" target="_blank">The movement of Nidaa Tounes deputies from one party to another after the 2014 elections</a>
+
+3. <a href="https://mahdiqb.github.io/viz/assemblee-en/" target="_blank">The deputies of the Assembly of the Representatives of the People, visualized with multiple criteria</a>
