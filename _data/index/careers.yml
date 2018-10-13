@@ -4,8 +4,9 @@
     detail: 1000mercis
     i18n: company_a
   desc:
-    detail: I worked at 1000mercis as a data engineer for my end of studies project. The project consisted of building
+    detail: Worked at 1000mercis as a data engineer for an end of studies project. The project consisted of building
             data pipelines for a Big Data architecture using PySpark, Apache Airflow, and Apache Zeppelin.
+            The data was mainly stored on MSSQL and Apache Hive (on top of Apache Hadoop).
     i18n: company_a_desc
   date:
     detail: Jan. 2018 - Jul. 2018
@@ -16,12 +17,12 @@
   icon: fa-plus-square
 
 - name:
-    detail: DemocracyInternational
+    detail: Democracy International
     i18n: company_b
   desc:
-    detail: I worked at DemocracyInternational on a campaign to deliver useful information to Tunisian voters
+    detail: Worked at Democracy International on a campaign to deliver useful information to Tunisian voters
             to motivate them to participate in the country's upcoming municipal elections.
-            I turned the data provided by Tunisian ministries and associations into interactive 
+            Turned the data provided by Tunisian ministries and associations into interactive 
             visualizations that helped voters get a better understanding of their municipalities' data.
     i18n: company_b_desc
   date:
