@@ -10,13 +10,14 @@
   i18n: cpython
   gh_user: mahdiqb
   img: /static/assets/img/landing/insat.png
-  desc: Conceived and implemented a data architecture based on three layers (Lambda Architecture) for a traffic and navigation Android app.
+  desc: Conceived and implemented a three-layer data architecture (Lambda Architecture) for a traffic and navigation Android app.
 
-- name: Visualizing Elections Data
+- name: Visualizing Electoral Data
   i18n: google
   repo: di_dataviz
   img: /static/assets/img/landing/di.png
   desc: Created a set of data visualizations for the 2018 tunisian municipal elections.
+  url: https://medium.com/@mahdikarabiben/visualizing-electoral-data-1b35d854cfec
   
 - name: Monumental 3D Projection Mapping
   i18n: google
