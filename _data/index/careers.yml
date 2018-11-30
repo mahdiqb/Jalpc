@@ -1,5 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: INVIVOO
+    i18n: company_a
+  desc:
+    detail: Helping INVIVOO's clients in building Big Data architectures and solving data-related issues.
+    i18n: company_b_desc
+  date:
+    detail: Nov. 2018 - Present
+    i18n: company_b_date
+  job:
+    detail: Big Data Consultant
+    i18n: company_b_job
+  icon: fa-plus-square
+
 - name:
     detail: Democracy International
     i18n: company_b
