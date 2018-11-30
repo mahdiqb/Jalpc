@@ -1,6 +1,23 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Democracy International
+    i18n: company_b
+  desc:
+    detail: Build an Open-Data platform in collaboration with the NGO Democracy International. The platform uses Jupyter notebooks
+    to visualize electoral data and aggregate it in order to offer valuable insights. The data was stored on a Couchbase cluster
+    and the notebooks were executed through an Airflow-based pipeline.
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2018 - Nov. 2018
+    i18n: company_b_date
+  job:
+    detail: Data Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
     detail: 1000mercis
     i18n: company_a
   desc:
@@ -12,7 +29,7 @@
     detail: Jan. 2018 - Jul. 2018
     i18n: company_a_date
   job:
-    detail: Data Engineering Intern
+    detail: Big Data Developer
     i18n: company_a_job
   icon: fa-plus-square
 
