@@ -4,7 +4,7 @@
     detail: Democracy International
     i18n: company_b
   desc:
-    detail: Build an Open-Data platform in collaboration with the NGO Democracy International. The platform uses Jupyter notebooks
+    detail: Built an Open-Data platform in collaboration with the NGO Democracy International. The platform uses Jupyter notebooks
             to visualize electoral data and aggregate it in order to offer valuable insights. The data was stored on a Couchbase cluster
             and the notebooks were executed through an Airflow-based pipeline.
     i18n: company_b_desc
