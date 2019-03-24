@@ -2,6 +2,7 @@
 layout: post
 title:  "Visualizing Electoral Data"
 date:   2018-10-08
+link: https://medium.com/@mahdikarabiben/visualizing-electoral-data-1b35d854cfec
 desc: "A set of visualizations created for the 2018 Tunisian municipal elections"
 keywords: "d3js,data,visualization,,blog,democracy,tunisia"
 categories: [data-visualization]
