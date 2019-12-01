@@ -33,11 +33,11 @@
 
 
 - name:
-    detail: 1000mercis
+    detail: Numberly
     i18n: company_a
   desc:
-    detail: Worked at 1000mercis as a data engineer for an end of studies project. The project consisted of building
-            data pipelines for a Big Data architecture using PySpark, Apache Airflow, and Apache Zeppelin.
+    detail: Worked at Numberly (1000mercis group) as a data engineer for my end-of-studies project. The project consisted of building
+            data pipelines for a Big Data architecture using Apache Spark (PySpark), Apache Airflow, and Apache Zeppelin.
             The data was mainly stored on MSSQL and Apache Hive (on top of Apache Hadoop).
     i18n: company_a_desc
   date:
