@@ -2,13 +2,27 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: INVIVOO
+    detail: FactSet
     i18n: company_a
   desc:
-    detail: Helping INVIVOO's clients in building Big Data architectures and solving data-related issues.
+    detail:
     i18n: company_b_desc
   date:
-    detail: Nov. 2018 - Present
+    detail: Apr. 2020 - Present
+    i18n: company_b_date
+  job:
+    detail: Data Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: INVIVOO
+    i18n: company_b
+  desc:
+    detail: Helped INVIVOO's clients in building Big Data architectures and solving data-related issues.
+    i18n: company_b_desc
+  date:
+    detail: Nov. 2018 - Apr. 2020
     i18n: company_b_date
   job:
     detail: Big Data Consultant
@@ -17,7 +31,7 @@
 
 - name:
     detail: Democracy International
-    i18n: company_b
+    i18n: company_a
   desc:
     detail: Built an Open-Data platform in collaboration with the NGO Democracy International. The platform uses Jupyter notebooks
             to visualize electoral data and aggregate it in order to offer valuable insights. The data was stored on a Couchbase cluster
@@ -34,7 +48,7 @@
 
 - name:
     detail: Numberly
-    i18n: company_a
+    i18n: company_b
   desc:
     detail: Worked at Numberly (1000mercis group) as a data engineer for my end-of-studies project. The project consisted of building
             data pipelines for a Big Data architecture using Apache Spark (PySpark), Apache Airflow, and Apache Zeppelin.
@@ -50,7 +64,7 @@
 
 - name:
     detail: Democracy International
-    i18n: company_b
+    i18n: company_a
   desc:
     detail: Worked at Democracy International on a campaign to deliver useful information to Tunisian voters
             to motivate them to participate in the country's upcoming municipal elections.
