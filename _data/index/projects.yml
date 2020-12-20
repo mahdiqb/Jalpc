@@ -21,7 +21,7 @@
 
 - name: Visualizing Electoral Data
   i18n: google
-  repo: di_dataviz
+  repo: mahdiqb/di_dataviz
   img: /static/assets/img/landing/di.png
   desc: Created a set of data visualizations for the 2018 tunisian municipal elections.
   url: https://medium.com/@mahdikarabiben/visualizing-electoral-data-1b35d854cfec
