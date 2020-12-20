@@ -12,12 +12,12 @@
   img: /static/assets/img/landing/insat.png
   desc: Conceived and implemented a three-layer data architecture (Lambda Architecture) for a traffic and navigation Android app.
   
-- name: An interactive dashboard to visualize the impact of natural disasters
+- name: An engine that generates notebook-based dynamic dashboards
   i18n: cpython
-  url: https://github.com/dataforgoodfr/batch8_worldbank
-  repo: dataforgoodfr/batch8_worldbank
-  img: /static/assets/img/landing/data_for_good.png
-  desc: Participated in designing and implementing an interactive dashboard that showcases the human and financial impacts of various types of disasters on the world. The dashboard was built in collaboration with the World Bank and is intended to be used by the World Bank's analysts.
+  url: https://towardsdatascience.com/creating-notebook-based-dynamic-dashboards-91f936adc6f3
+  repo: mahdiqb/dynamic_dashboards_generator
+  img: /static/assets/img/landing/jupyter_logo.png
+  desc: Built a python-based engine that generates dynamic dashboards via a search page.
 
 - name: Visualizing Electoral Data
   i18n: google
@@ -26,12 +26,12 @@
   desc: Created a set of data visualizations for the 2018 tunisian municipal elections.
   url: https://medium.com/@mahdikarabiben/visualizing-electoral-data-1b35d854cfec
   
-- name: An engine that generates notebook-based dynamic dashboards
+- name: An interactive dashboard to visualize the impact of natural disasters
   i18n: cpython
-  url: https://towardsdatascience.com/creating-notebook-based-dynamic-dashboards-91f936adc6f3
-  repo: mahdiqb/dynamic_dashboards_generator
-  img: /static/assets/img/landing/jupyter_logo.png
-  desc: Built a python-based engine that generates dynamic dashboards via a search page.
+  url: https://github.com/dataforgoodfr/batch8_worldbank
+  repo: dataforgoodfr/batch8_worldbank
+  img: /static/assets/img/landing/data_for_good.png
+  desc: Participated in designing and implementing an interactive dashboard that showcases the human and financial impacts of various types of disasters on the world. The dashboard was built in collaboration with the World Bank and is intended to be used by the World Bank's analysts.
 
 - name: Monumental 3D Projection Mapping
   i18n: google
