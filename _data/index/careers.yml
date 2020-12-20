@@ -5,7 +5,7 @@
     detail: FactSet
     i18n: company_a
   desc:
-    detail:
+    detail: Designing, implementing and maintaining cloud-based data lakes, data pipelines, and ML Ops pipelines.
     i18n: company_b_desc
   date:
     detail: Apr. 2020 - Present
