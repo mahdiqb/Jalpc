@@ -25,7 +25,7 @@ author:
   skill_icon2:
    - name: icon-python
    - name: icon-database
-  desc: A driven data engineer who's also passionate about data visualization.
+  desc: Hi there 👋 I'm a data engineer based in Paris. I'm very passionate about open-source projects and enjoy building data pipelines, datalakes, and data services - basically, I enjoy working with data and designing scalable solutions.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
