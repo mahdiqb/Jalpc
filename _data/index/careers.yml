@@ -30,23 +30,6 @@
   icon: fa-plus-square
 
 - name:
-    detail: Democracy International
-    i18n: company_a
-  desc:
-    detail: Built an Open-Data platform in collaboration with the NGO Democracy International. The platform uses Jupyter notebooks
-            to visualize electoral data and aggregate it in order to offer valuable insights. The data was stored on a Couchbase cluster
-            and the notebooks were executed through an Airflow-based pipeline.
-    i18n: company_b_desc
-  date:
-    detail: Aug. 2018 - Nov. 2018
-    i18n: company_b_date
-  job:
-    detail: Data Engineer
-    i18n: company_b_job
-  icon: fa-plus-square
-
-
-- name:
     detail: Numberly
     i18n: company_b
   desc:
