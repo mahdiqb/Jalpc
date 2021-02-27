@@ -16,13 +16,14 @@
   icon: fa-plus-square
 
 - name:
-    detail: INVIVOO
+    detail: Crédit Agricole CIB
     i18n: company_b
   desc:
-    detail: Helped INVIVOO's clients in building Big Data architectures and solving data-related issues.
+    detail: Worked as a consultant with CA-CIB's data teams on implementing a Big Data architecture for the FRTB regulations.
+            The project consisted of building a Hadoop data lake to store all of the bank's markets risk data.
     i18n: company_b_desc
   date:
-    detail: Nov. 2018 - Apr. 2020
+    detail: Dec. 2018 - Apr. 2020
     i18n: company_b_date
   job:
     detail: Big Data Consultant
